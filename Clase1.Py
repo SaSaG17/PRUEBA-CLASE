@@ -1,4 +1,4 @@
-print("Hola, este es un ejemplo en Python")
+print("Hola mundo Sandra 1.0")
 
 numero1 = 5
 numero2 = 7
